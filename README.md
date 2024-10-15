@@ -7,6 +7,9 @@
 </p>
 
 <div align='center'>
+    <a href="https://www.mntcodes.com/">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mednt/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
