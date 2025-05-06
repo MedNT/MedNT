@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  A Software Engineer based currently in Morocco. Driven by an early passion for software development, my versatile skill and determination to succeed under pressure make me a leader capable of guiding my team towards excellence.
+  A Software Engineer based in Morocco. Driven by an early passion for software development, my versatile skill and determination to succeed under pressure make me a leader capable of guiding my team towards excellence.
 </p>
 
 <div align='center'>
